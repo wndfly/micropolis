@@ -1,0 +1,17 @@
+*.[ao]
+*.swp
+micropolis-activity/res/sim
+micropolis-activity/src/sim/sim
+micropolis-activity/src/tclx/ossupp/made.tmp
+micropolis-activity/src/tclx/runtcl
+micropolis-activity/src/tclx/runwish
+micropolis-activity/src/tclx/src/made.tmp
+micropolis-activity/src/tclx/src/tclxgdat.c
+micropolis-activity/src/tclx/tcl
+micropolis-activity/src/tclx/tcldef
+micropolis-activity/src/tclx/tcllib/tcl.tlb
+micropolis-activity/src/tclx/tclsrc/made.tmp
+micropolis-activity/src/tclx/tkucbsrc/made.tmp
+micropolis-activity/src/tclx/ucbsrc/made.tmp
+micropolis-activity/src/tclx/wish
+micropolis-activity/src/tk/wish
